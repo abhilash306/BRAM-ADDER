@@ -20,7 +20,7 @@ This result confirms the successful addition operation performed using the BRAM.
 
 The integration of the ZYNQ processing system with the custom IP on the AXI bus is illustrated below:
 
-![ZYNQ Integration](https://github.com/abhilash306/BRAM_ADDER/assets/29005113/914282c0-29c9-490e-8cd3-d890c42e4035)
+![image](https://github.com/abhilash306/BRAM_ADDER/assets/29005113/0768ecae-32e1-455b-be56-ec786a664971)
 
 This setup leverages the ZYNQ Processing System to interface with the custom IP, facilitating efficient data transfer via the AXI bus.
 
@@ -28,6 +28,6 @@ This setup leverages the ZYNQ Processing System to interface with the custom IP,
 
 The data read from the output BRAM after the addition operation is shown below:
 
-![Data Read](https://github.com/abhilash306/BRAM_ADDER/assets/29005113/35846cfd-4f72-4c63-a5ab-67f6cc59a364)
+![image](https://github.com/abhilash306/BRAM_ADDER/assets/29005113/24c04e32-e259-42a5-89f4-d646079bc6da)
 
 In this step, the VITIS software platform is used to read the data from the output BRAM, verifying the correctness of the addition operation.
